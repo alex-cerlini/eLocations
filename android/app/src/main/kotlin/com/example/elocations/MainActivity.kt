@@ -1,4 +1,4 @@
-package com.example.elocations
+package com.alexcerlini.elocations
 
 import io.flutter.embedding.android.FlutterActivity
 
