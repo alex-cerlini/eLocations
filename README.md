@@ -20,11 +20,12 @@
 ---
 
 ## App Preview
-
+<p>
 <img src="print_screen/Print1.png" width="150" style="margin: 20px;">
 <img src="print_screen/Print2.jpg" width="150" style="margin: 20px;">
 <img src="print_screen/Print3.jpg" width="150" style="margin: 20px;">
 <img src="print_screen/Print4.jpg" width="150" style="margin: 20px;">
+</p>
 
 ---
 
