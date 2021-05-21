@@ -19,15 +19,32 @@
 
 ---
 
-## Pre-Requisites
-Install Flutter SDK;
+## Developer Quick start
 
-Before start, make sure you have GIT and a code editor of your preference, like Visual Studio Code with Dart & Flutter plugin installed.
+1. [Install Pre-requisites](#pre-requisites)
+1. [Clone](#clone-the-repo)
+1. [Download third party libs](#download-third-party-libs)
+1. [Run eLocations](#run-eLocations-on-a-device-or-simulator)
 
-Just Clone the repository<br/>
-$ `git clone git@github.com:alex-cerlini/eLocations.git`
 
-And Run & debug the App with your code editor.
+### Pre-requisites
+
+* Install [Flutter SDK](https://flutter.dev/docs/get-started/install).
+* Make sure you're on Flutter's beta channel. To know what channel you're on, run ```flutter channel``` on Terminal/Bash.
+* Setup your [favorite code editor](https://flutter.dev/docs/get-started/editor) (I recommend using [VS Code](https://code.visualstudio.com/))
+
+### Clone the repo
+    git clone git@github.com:alex-cerlini/eLocations.git
+
+
+### Download Third Party Libs
+1. run ```flutter packages get``` to download all the librarys used in project
+
+
+### Run eLocations on a device or simulator
+* Run `flutter run` with a device attached to your computer or an open simulator
+or
+* Use your editor command to run the app (F5 in Visual Studio Code)
 
 ---
 
